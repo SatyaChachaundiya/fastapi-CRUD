@@ -1,0 +1,2 @@
+Vir envi. is created inside my project folder
+Vir envi stores all the dependencies

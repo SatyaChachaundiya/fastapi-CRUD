@@ -1,0 +1,2 @@
+1. Enter into Virtual Env - & "C:/Users/satya/OneDrive/Desktop/Python Practice/fastapi_practice/venv/Scripts/Activate.ps1"
+    To deactivate - deactivate
